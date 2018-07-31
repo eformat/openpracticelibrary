@@ -1,13 +1,10 @@
 ---
 title: About
 authors:
-  - sherl0cks
-  - rdebeasi
-  - springdo
+  - ryan
+  - donal
   - mtakane
 date: 2017-10-19T21:03:59.000Z
-menu: main
-weight: 4
 ---
 
 ## Goals of this Library
@@ -24,13 +21,6 @@ Share details about a particular practice that community members use, learn pers
 ## What This Library *Is*
 Just enough information for each practice to "specify the end state, its purpose, and the minimum possible constraints" in order to "create alignment and enable autonomy" for participants and facilitators. Where more detailed content is useful, we'll provide links. This idea comes from Donald Reinersten's *Principle of Mission*, which provides the conceptual foundation to *Lean Enterprise* by Jez Humble, Joanne Molesky & Barry O'Reilly.
 
-## What A Practice *Is*
-A practice is an exercise or an approach that we propose the reader to apply systematically to achieve specific goals.
-Practices have the following important characteristics:
-- Structured (they consist of rigorously defined, often discrete and systematic steps)
-- Replicable (they're reproducible or repeatable across situations or contexts)
-- Learned (they're not innate but rather habituated—and thus teachable!)
-
 ## Contributing
 
 We'd love to hear your thoughts about the material presented here or other content you'd like to add. [Open an issue](https://github.com/openpracticelibrary/openpracticelibrary/issues) and we can go from there.
@@ -44,9 +34,9 @@ We're looking to be friendly and also authoritative, comprehensive and also conc
 ## How to Fit These Practices into Your Existing Approach
 While everybody has their approach to engagements, there is a need to identify particular outcomes that common practices look to accomplish.
 
-So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by Gabrielle Benefield and Ryan Shriver. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
+So, the Open Practice Library has placed each practice on a visual canvas that includes the [Mobius Loop](http://www.mobiusloop.com) and a foundation layer. Mobius is an open source model created by the [Outcome Delivery](http://www.outcomedelivery.com) community.
 
-![library-loop](/images/loop-labels-path.svg)
+![mobius-on-foundation](/images/mobius-on-foundation.jpg)
 
 Practices are identified on one of areas of the canvas:
 
